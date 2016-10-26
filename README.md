@@ -1,3 +1,3 @@
 # Readme
-Ziyunch\\
-A chemistry PhD candidate.\\
+Ziyunch
+A chemistry PhD candidate
